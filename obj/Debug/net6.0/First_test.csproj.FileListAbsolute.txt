@@ -1,0 +1,15 @@
+C:\Users\Дарья\Desktop\GB_First_test\First_test\bin\Debug\net6.0\First_test.exe
+C:\Users\Дарья\Desktop\GB_First_test\First_test\bin\Debug\net6.0\First_test.deps.json
+C:\Users\Дарья\Desktop\GB_First_test\First_test\bin\Debug\net6.0\First_test.runtimeconfig.json
+C:\Users\Дарья\Desktop\GB_First_test\First_test\bin\Debug\net6.0\First_test.dll
+C:\Users\Дарья\Desktop\GB_First_test\First_test\bin\Debug\net6.0\ref\First_test.dll
+C:\Users\Дарья\Desktop\GB_First_test\First_test\bin\Debug\net6.0\First_test.pdb
+C:\Users\Дарья\Desktop\GB_First_test\First_test\obj\Debug\net6.0\First_test.csproj.AssemblyReference.cache
+C:\Users\Дарья\Desktop\GB_First_test\First_test\obj\Debug\net6.0\First_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарья\Desktop\GB_First_test\First_test\obj\Debug\net6.0\First_test.AssemblyInfoInputs.cache
+C:\Users\Дарья\Desktop\GB_First_test\First_test\obj\Debug\net6.0\First_test.AssemblyInfo.cs
+C:\Users\Дарья\Desktop\GB_First_test\First_test\obj\Debug\net6.0\First_test.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\GB_First_test\First_test\obj\Debug\net6.0\First_test.dll
+C:\Users\Дарья\Desktop\GB_First_test\First_test\obj\Debug\net6.0\ref\First_test.dll
+C:\Users\Дарья\Desktop\GB_First_test\First_test\obj\Debug\net6.0\First_test.pdb
+C:\Users\Дарья\Desktop\GB_First_test\First_test\obj\Debug\net6.0\First_test.genruntimeconfig.cache
